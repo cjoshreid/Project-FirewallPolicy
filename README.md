@@ -57,10 +57,13 @@ This project successfully fortified the security posture of the OPNsense firewal
 
 ## References:
 
-OPNsense documentation, online tutorials.
+OPNsense documentation, ChatGPT, online tutorials.
 
 ## Screenshots:
 
 - Example of Scheduler Configuration for Ruleset Downloads
+   ![screenshot](schedule.png)
 - Policies Configuration in Services: Intrusion Detection: Policy
-- Ruleset Downloads and Updates Log in Services: Intrusion Detection: Administration
+     ![screenshot](setpolicy.png)
+- Intrusion Detection: Policy
+       ![screenshot](policy.png)
